@@ -1,0 +1,103 @@
+#main table button {
+    background-color: #00BFFF;
+    color: white;
+    font-size:30px;
+    padding:;
+    margin: 10px;
+    border: none;
+    border-radius: 12px;
+    font-family: montserrat;
+    cursor: pointer;
+    width: 200px;
+    opacity: 0.7;
+    align:center;
+    margin-left:70px;
+}
+button:hover {
+    opacity:1;
+  }
+input[type=text], input[type=date], input[type=email] {
+    width:150px;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    border-radius:12px;
+    background: #f1f1f1;
+  }
+  select{
+    width:150px ;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    border-radius:12px;
+    background: #f1f1f1;
+  }
+  #a1{
+    width:120px;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    border-radius:12px;
+    background: #f1f1f1;
+  }
+  #main{
+    padding: 10px 30px;
+    letter-spacing: 1px;
+    font-size: 16px;
+    width :600px;
+    height:610px;
+    background-color: rgba(255,255,255,0.5);
+    border-radius: 20px;
+    box-shadow: 0 22px 26px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    position:absolute;
+    top:200px;
+    left:600px;
+    font-size:25px;
+    opacity:0.6;
+    transition:1s;
+    filter:blur(0.5px);
+  }
+  #main:hover{
+      opacity:1;
+      filter:blur(0px);
+
+  }
+  #h3 {
+      background-color: rgba(255,255,255,0.5);
+      border-radius: 20px;
+      box-shadow: 0 22px 26px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+      position:absolute;
+      top:16px;
+      left:1500px;
+      height:50px;
+      width:px;
+      opacity:0.5;
+      filter:blur(1px);
+	  transition:0.6s;
+  }
+  #h3 > h3{
+      padding-left:10px;
+      padding-top:10px;
+      padding-right:10px;
+      width:110%;
+  }
+  #h3:hover{
+    opacity:1;
+    filter:blur(0px);
+    transition:0.5s;
+  }
+#main table{
+    margin-top:40px;
+    margin-bottom:40px;
+}
+#main h2{
+    margin-top:20px;
+}
+h4 {
+    position:absolute;
+    top:790px;
+    left:700px;
+}

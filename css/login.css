@@ -1,0 +1,16 @@
+
+body {
+	background-image: url("black.png");
+}
+#signin {
+	position:absolute;
+	top:20px;
+	background-color:;
+}
+
+img{
+	height:100%;
+	width:100%;
+	position:absolute;
+	top:0px;
+}

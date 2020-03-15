@@ -1,0 +1,185 @@
+#g1{
+	height:400px;
+	width:500px;
+	position:absolute;
+	top:80px;
+	left:50px;
+}
+#g2{
+	height:400px;
+	width:500px;
+	position:absolute;
+	top:80px;
+	left:700px;
+	
+}
+#g3{
+	height:400px;
+	width:500px;
+	position:absolute;
+	top:80px;
+	left:1350px;
+}
+#g4{
+	height:400px;
+	width:500px;
+	position:absolute;
+	top:520px;
+	left:50px;
+}
+#g5{
+	height:400px;
+	width:500px;
+	position:absolute;
+	top:520px;
+	left:700px;
+}
+#g6{
+	height:400px;
+	width:500px;
+	position:absolute;
+	top:520px;
+	left:1350px;
+}
+
+#g7{
+	height:400px;
+	width:500px;
+	position:absolute;
+	top:80px;
+	left:50px;
+}
+#g8{
+	height:400px;
+	width:500px;
+	position:absolute;
+	top:80px;
+	left:700px;
+	
+}
+#g9{
+	height:400px;
+	width:500px;
+	position:absolute;
+	top:80px;
+	left:1350px;
+}
+#g10{
+	height:400px;
+	width:500px;
+	position:absolute;
+	top:520px;
+	left:50px;
+}
+#g11{
+	height:400px;
+	width:500px;
+	position:absolute;
+	top:520px;
+	left:700px;
+}
+#g12{
+	height:400px;
+	width:500px;
+	position:absolute;
+	top:520px;
+	left:1350px;
+}
+img{
+	border-radius:30px;
+	border:3px solid white;
+}
+img:hover{
+	border:3px solid red;
+	border-radius:50px;
+	opacity:0;
+	transition:1.5s;
+}
+                                          
+#h1{
+	height:400px;
+	width:500px;
+	position:absolute;
+	top:1060px;
+	left:50px;
+}
+#h2{
+	height:400px;
+	width:500px;
+	position:absolute;
+	top:1060px;
+	left:700px;
+	
+}
+#h3{
+	height:400px;
+	width:500px;
+	position:absolute;
+	top:1060px;
+	left:1350px;
+}
+#h4{
+	height:400px;
+	width:500px;
+	position:absolute;
+	top:1500px;
+	left:50px;
+}
+#h5{
+	height:400px;
+	width:500px;
+	position:absolute;
+	top:1500px;
+	left:700px;
+}
+#h6{
+	height:400px;
+	width:500px;
+	position:absolute;
+	top:1500px;
+	left:1350px;
+}
+
+#h7{
+	height:400px;
+	width:500px;
+	position:absolute;
+	top:1060px;
+	left:50px;
+}
+#h8{
+	height:400px;
+	width:500px;
+	position:absolute;
+	top:1060px;
+	left:700px;
+	
+}
+#h9{
+	height:400px;
+	width:500px;
+	position:absolute;
+	top:1060px;
+	left:1350px;
+}
+#h10{
+	height:400px;
+	width:500px;
+	position:absolute;
+	top:1500px;
+	left:50px;
+}
+#h11{
+	height:400px;
+	width:500px;
+	position:absolute;
+	top:1500px;
+	left:700px;
+}
+#h12{
+	height:400px;
+	width:500px;
+	position:absolute;
+	top:1500px;
+	left:1350px;
+}

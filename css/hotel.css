@@ -1,0 +1,54 @@
+#h1{
+	height:400px;
+	width:500px;
+	position:absolute;
+	top:80px;
+	left:50px;
+}
+#h2{
+	height:400px;
+	width:500px;
+	position:absolute;
+	top:80px;
+	left:700px;
+	
+}
+#h3{
+	height:400px;
+	width:500px;
+	position:absolute;
+	top:80px;
+	left:1350px;
+}
+#h4{
+	height:400px;
+	width:500px;
+	position:absolute;
+	top:520px;
+	left:50px;
+}
+#h5{
+	height:400px;
+	width:500px;
+	position:absolute;
+	top:520px;
+	left:700px;
+}
+#h6{
+	height:400px;
+	width:500px;
+	position:absolute;
+	top:520px;
+	left:1350px;
+}
+img{
+	border-radius:30px;
+	border:3px solid white;
+}
+img:hover{
+	border:3px solid red;
+	opacity:0.5;
+	border-radius:40px;
+    filter: blur(2px);
+	transition:0.7s;
+}
